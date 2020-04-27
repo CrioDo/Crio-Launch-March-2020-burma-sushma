@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c44dbb1302cef67e1b85eab2e0d80194",
+    "revision": "fb422862d4ccbe185674a0a5cec54601",
     "url": "/Crio-Launch-March-2020-burma-sushma/index.html"
   },
   {
-    "revision": "9d727e43187be60448c0",
+    "revision": "35da9f9f980ab003a0c1",
     "url": "/Crio-Launch-March-2020-burma-sushma/static/css/2.57ddf7ad.chunk.css"
   },
   {
-    "revision": "b315ed0d0890912870bb",
+    "revision": "a560ba512c189522ae8c",
     "url": "/Crio-Launch-March-2020-burma-sushma/static/css/main.5db1380d.chunk.css"
   },
   {
-    "revision": "9d727e43187be60448c0",
-    "url": "/Crio-Launch-March-2020-burma-sushma/static/js/2.7a50b41e.chunk.js"
+    "revision": "35da9f9f980ab003a0c1",
+    "url": "/Crio-Launch-March-2020-burma-sushma/static/js/2.c384a4c5.chunk.js"
   },
   {
     "revision": "d466ab9648f013dea081956fc7c904f3",
-    "url": "/Crio-Launch-March-2020-burma-sushma/static/js/2.7a50b41e.chunk.js.LICENSE.txt"
+    "url": "/Crio-Launch-March-2020-burma-sushma/static/js/2.c384a4c5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b315ed0d0890912870bb",
-    "url": "/Crio-Launch-March-2020-burma-sushma/static/js/main.e13fb730.chunk.js"
+    "revision": "a560ba512c189522ae8c",
+    "url": "/Crio-Launch-March-2020-burma-sushma/static/js/main.96234ed4.chunk.js"
   },
   {
-    "revision": "b80f973c59378a1efa31",
-    "url": "/Crio-Launch-March-2020-burma-sushma/static/js/runtime-main.c420dfad.js"
+    "revision": "e27769d4c65088884ef3",
+    "url": "/Crio-Launch-March-2020-burma-sushma/static/js/runtime-main.94a8801a.js"
   },
   {
     "revision": "c9536e0497f939475da3110091e1a10d",
